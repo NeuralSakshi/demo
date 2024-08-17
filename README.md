@@ -1,2 +1,3 @@
-# demo
-this is my first Git Repository.
+# Nural-demo
+This is my first Git Repository.
+Author-Sakshi
